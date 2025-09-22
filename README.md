@@ -41,7 +41,7 @@ The dataset (`Zepto Grocery Data.xlsx`) includes:
 - Outlet details (Location Tier, Size, Type, Establishment Year)  
 - Sales & Ratings
 
-##📸 Dashboard Preview
+**📸 Dashboard Preview**
 <img width="604" height="334" alt="Zepto Powerbi Dashboard" src="https://github.com/user-attachments/assets/40bcf517-76c3-4d91-a5d5-0e4c19678439" />
 
 
