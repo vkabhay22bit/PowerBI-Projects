@@ -39,4 +39,9 @@ To conduct a comprehensive analysis of grocery sales performance, customer satis
 The dataset (`Zepto Grocery Data.xlsx`) includes:
 - Product details (ID, Type, Weight, Fat Content, Visibility)  
 - Outlet details (Location Tier, Size, Type, Establishment Year)  
-- Sales & Ratings  
+- Sales & Ratings
+
+##📸 Dashboard Preview
+<img width="604" height="334" alt="Zepto Powerbi Dashboard" src="https://github.com/user-attachments/assets/40bcf517-76c3-4d91-a5d5-0e4c19678439" />
+
+
